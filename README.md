@@ -5,6 +5,8 @@
 > **Game design reference · v0.1 · October 2026**  
 > This document describes the agreed gameplay and identifies provisional prototype rules and unresolved decisions. It is intended to be the gameplay source of truth for future development. Newer rules here override older brainstorming notes.
 
+**Technical implementation:** [Unity 6 / URP development plan](docs/UNITY_TECH_STACK.md). This document is the source of truth for gameplay rules; the technical plan defines the engine, asset workflow, architecture, AI-assisted development, and mobile roadmap.
+
 ## 1. The core concept
 
 Two rival **Summoners** conjure mythological creatures onto a grid battlefield. Every creature has **directional arrows** that simultaneously determine its **movement**, **attack directions**, **territory-capture reach**, and **survival**. Combat first wears down **armor**; when armor reaches zero, one arrow breaks and armor resets. Losing an arrow permanently reduces a creature's capabilities until a spell or ability explicitly restores it. Losing the final arrow kills the creature.
