@@ -88,6 +88,8 @@ Render the creature's intact arrows as world-space rune markers, rings, glyphs, 
 
 The **model is the fantasy**; the **arrow overlay is the authoritative information**.
 
+**Researched candidate asset packs and price snapshots:** [Nordic / Fantasy / Winter Asset Research](ASSET_RESEARCH.md). All prices and license terms should be rechecked before purchase.
+
 ## 4. Avoid the modeling trap: asset-first production
 
 **The initial prototype does not require any custom creature modeling.**
